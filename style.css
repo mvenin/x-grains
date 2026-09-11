@@ -1,3 +1,17 @@
 body {
-background-color: antiquewhite;
+    background-color: beige;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: green;
+}
+
+h2 {
+    color: goldenrod;
+}
+
+p {
+    font-size: 18px;
 }
